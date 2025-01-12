@@ -1,9 +1,6 @@
 # Modern Todo App 📝
 
 A beautiful, feature-rich todo application with a modern UI, smooth animations, and powerful task management capabilities. Built with vanilla JavaScript and features a stunning dark/light theme.
-
-![Todo App Preview](preview.png)
-
 ## ✨ Features
 
 ### Core Functionality
